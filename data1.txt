@@ -1,0 +1,152 @@
+1 1 zu zhang 族长
+2 1 zu zhang 族长
+3 1 zu zhang 族长
+4 1 zu zhang 族长
+5 1 zu zhang 族长
+6 1 qian zong 千总
+7 1 zu zhang 族长
+8 1 gao li man zhou 高麗滿洲
+9 1 zu zhang 族长
+10 1 zu zhang 族长
+11 1 bai zong 百总
+12 1 zu zhang 族长
+13 1 zu zhang 族长
+14 1 qian zong 千总
+15 1 zu zhang 族长
+16 1 zu zhang 族长
+17 1 zu zhang 族长
+18 1 zu zhang 族长
+19 1 zu zhang 族长
+20 1 zu zhang 族长
+21 1 zu zhang 族长
+22 1 zu zhang 族长
+23 1 zu zhang 族长
+24 1 zu zhang 族长
+25 1 zu zhang 族长
+26 1 zu zhang 族长
+27 1 kai dang zu zhang 开档族长
+28 1 kai dang zu zhang 开档族长
+29 1 zu zhang 族长
+1 2 bai zong 百总
+2 2 bai zong 百总
+6 2 tui qian zong 退千总
+7 2 bai zong 百总
+8 2 zu zhang 族长
+9 2 bai zong 百总
+10 2 wei guan 委管
+11 2 tui zuo ling 退佐领
+13 2 xin fang zu zhang 新放族长
+14 2 bai zong 百总
+15 2 tui zu zhang 退族长
+16 2 xin fang zu zhang 新放族长
+18 2 xin fang zu zhang 新放族长
+19 2 tui zu zhang 退族长
+20 2 xin fang zu zhang 新放族长
+22 2 ci zhang 次长
+23 2 tui zu zhang 退族长
+24 2 tui zu zhang 退族长
+25 2 tui zu zhang 退族长
+26 2 tui zu zhang 退族长
+27 2 zu zhang 族长
+28 2 zu zhang 族长
+29 2 xiao men zu zhang 小门族长
+1 3 niu lu ling cui 牛录领催
+6 3 lao tui zhi 老退织
+8 3 tui bai zong 退百总
+9 3 tui zu zhang 退族长
+11 3 tui bai zong 退百总
+13 3 tui zu zhang 退族长
+14 3 xiao tou 小头
+15 3 ge tui zu zhang 革退族长
+16 3 tui zu zhang 退族长
+18 3 tui zu zhang 退族长
+19 3 xin fang zu zhang 新放族长
+20 3 tui zu zhang 退族长
+22 3 zong zu zhang 总族长
+23 3 fang zu zhang 放族长
+24 3 xin fang zu zhang 新放族长
+25 3 xin fang zu zhang 新放族长
+28 3 tou cong zu zhang 投从族长
+29 3 xiao men tui zu zhang 小门退族长
+1 4 xin fang zu zhang 新放族长
+2 4 xin fang zu zhang 新放族长
+3 4 xin fang zu zhang 新放族长
+5 4 xin fang zu zhang 新放族长
+6 4 zong zu zhang 總族长
+8 4 bai zong 百总
+9 4 xin fang zu zhang 新放族长
+11 4 zu zhang 族长
+14 4 ci ren qi xiao 辞任骑校
+20 4 zong zu zhang 总族长
+22 4 xin fang zu zhang 新放族长
+25 4 gao li man zhou zu zhang 高丽满洲族长
+28 4 bao yang zu zhang 抱养族长
+29 4 tui zu zhang 退族长
+1 5 wu pin ding dai 五品顶戴
+2 5 wu pin ding dai 五品顶戴
+6 5 tui bai zong 退百总
+7 5 tui zu zhang 退族长
+8 5 ku shi 库使
+11 5 tui zu zhang 退族长
+14 5 ling cui 领催
+28 5 tui zu zhang 退族长
+1 6 hou bu cui zhang 候補催長
+6 6 bai zong 百总
+7 6 xin fang zu zhang 新放族长
+8 6 wei guan 委管
+11 6 niu lu ling cui 牛录领催
+14 6 tui bai zong 退百总
+28 6 kai dang tui zu zhang 开档退族长
+1 7 ji ming cui zhang 记名催长
+6 7 zu zhang 族长
+8 7 lao tui 老退
+11 7 tui niu lu ling cui 退牛录领催
+14 7 zu zhang 族长
+28 7 xin fang zu zhang 新放族长
+1 8 wu pin ding dai wei ling cui 五品顶戴委領催
+6 8 fu zu zhang 副族长
+8 8 sheng yuan 生員
+11 8 fu bai zong 副百总
+14 8 tui xiao qi xiao 退骁骑校
+1 9 liu pin ding dai jia ding 六品顶戴甲丁
+6 9 yu qian zong 魚千總
+8 9 wen ju ren 文举
+11 9 hou xuan shou yu suo qian zong 候選受御所千总
+14 9 jiu pin ding dai 九品顶戴
+6 10 xin fang zu zhang 新放族长
+11 10 ding dai ling cui 顶带领催
+14 10 ba pin ding dai 八品顶戴
+6 11 tui zu zhang 退族长
+11 11 hou xuan ying qian zong 候選营千总
+14 11 zuo luo bai zong 坐落百总
+6 12 cong jiu pin 从九品
+11 12 cui zhang 催长
+14 12 fu ling cui 副领催
+6 13 bang ban qian zong 帮办千总
+11 13 ling cui 领催
+14 13 xin fang zu zhang 新放族长
+6 14 juan na zhang 捐纳长
+11 14 xin juan tong pan 新捐通判
+14 14 du tong 都司
+6 15 ge tui qian zong 革退千总
+11 15 juan na tong pan 捐纳通判
+14 15 hou bu xiao qi xiao 候补骁骑校
+11 16 xin fang bai zong 新放百总
+14 16 hou bu si ku 候补司库
+11 17 man zhou zu zhang 满洲族长
+14 17 tui zu zhang 退族长
+11 18 juan na cong jiu pin 捐纳从九品
+14 18 si ku 司库
+11 19 bang ban bai zong 帮办百总
+14 19 bang ban bai zong 帮办百总
+11 20 lan ling wu pin ding dai 蓝翎五品顶戴
+14 20 xin fang bai zong 新放百总
+14 21 lan ling xiao qi xiao 蓝翎骁骑校
+14 22 liu pin jun gong 六品军功
+14 23 lan ling liu pin jun gong 蓝领六品军功
+14 24 fu ling cui 副领催
+14 25 tui zuo luo bai zong 退坐落百总
+14 26 liu pin ding dai 六品顶戴
+14 27 wu pin ding dai 五品顶戴
+14 28 hou xuan fu qian zong 候选府(千总)
+14 29 lan ling wu pin ding dai 蓝翎五品顶戴
