@@ -1,0 +1,1702 @@
+﻿1 1 zhuang ding
+2 1 zhuang ding 壯丁
+3 1 zhuang ding 壯丁
+4 1 zhuang ding 壯丁
+5 1 mian ding 棉丁
+6 1 jian sheng 监生
+7 1 zhuang ding 壯丁
+8 1 zhuang ding 壯丁
+9 1 zhuang ding 壯丁
+10 1 tui zhi shi ren 退执事人
+11 1 zhuang ding 壯丁
+12 1 zhuang ding 壯丁
+13 1 bai zong 百总
+14 1 zhuang ding 壯丁
+15 1 zhuang ding 壯丁
+16 1 ran pi ding 染皮丁
+17 1 zhuang ding 壯丁
+18 1 zhuang ding 壯丁
+19 1 zhuang ding 壯丁
+20 1 zhuang ding 壮丁
+21 1 sheng ding 牲丁
+22 1 zhuang ding 壮丁
+23 1 jia ding 甲丁
+24 1 zhuang ding 壮丁
+25 1 tui mian hua zhuang tou 退棉花庄头
+26 1 fen ding 坟丁
+27 1 tao ding (chen tao you an) 逃丁(陈逃有案)
+28 1 tao ding 逃丁
+1 2 chu ding 初丁
+2 2 chu ding 初丁
+3 2 chu ding 初丁
+4 2 chu ding 初丁
+5 2 xin ding 新丁
+6 2 yu ding 鱼丁
+7 2 jia ding 甲丁
+8 2 jia ding 甲丁
+9 2 xin zeng zhuang ding 新增壮丁
+10 2 jia ding 甲丁
+11 2 xin zeng ding 新增丁
+12 2 lao tui 老退
+13 2 bang ding 帮丁
+14 2 chen fei 陈废
+15 2 jia ding 甲丁
+16 2 lao tui 老退
+17 2 lao ding 老丁
+18 2 tui ding 退丁
+19 2 tui ding 退丁
+20 2 xin ding 新丁
+21 2 gu ding 故丁
+22 2 gu ding 故丁
+23 2 bang ding 帮丁
+24 2 gu ding 故丁
+25 2 zhuang ding 壮丁
+26 2 fen da 坟达
+27 2 tou hu tui ding 投户退丁
+28 2 fei ding 废丁
+1 3 xin zeng ding 新增丁
+2 3 xin zeng ding 新增丁
+3 3 xin zeng ding 新增丁
+4 3 xin zeng ding 新增丁
+5 3 mian (hua) zhuang tou 棉(花)庄頭
+6 3 zeng ding 增丁
+7 3 xin zeng ding 新增丁
+8 3 cong jiu pin yu jia ding 從九品銜甲丁
+9 3 bang ding 帮丁
+10 3 bang ding 帮丁
+11 3 tui jia ding 退甲丁
+12 3 tao ding 逃丁
+13 3 cai mi ling cui 采蜜领催
+14 3 chen tui 陈退
+15 3 chu shou xin ru 出首新入
+16 3 pi ding 皮丁
+17 3 jia ding 甲丁
+18 3 jia ding 甲丁
+19 3 fa qian 发遣
+20 3 tui ding 退丁
+21 3 gu bing , gu jia 故兵、故甲
+22 3 gu jia 故甲
+23 3 zhuang ding 壮丁
+24 3 lao ding 老丁
+25 3 mian hua zhuang tou gao li 棉花庄头 高丽
+26 3 gu ding 故丁
+27 3 zhuang ding 壮丁
+28 3 zhuang ding 壮丁
+1 4 jia ding 甲丁
+2 4 jia ding 甲丁
+3 4 jia ding 甲丁
+4 4 jia ding 甲丁
+5 4 zhuang tou 庄頭
+6 4 xin zeng ding 新增丁
+7 4 xin zeng zhuang ding 新增壮丁
+8 4 gao li man zhou 高麗滿洲
+9 4 jia ding 甲丁
+10 4 fei ding 废丁
+11 4 xin ding 新丁
+12 4 tao you an 逃有案
+13 4 mi ding 蜜丁
+14 4 fei ding 废丁
+15 4 bang ding 帮丁
+16 4 fei ding 废丁
+17 4 bang ding 帮丁
+18 4 bang ding 帮丁
+19 4 tao ding 逃丁
+20 4 tao ding 逃丁
+21 4 lao ding 老丁
+22 4 xin ding 新丁
+23 4 xin ding 新入
+24 4 zhuang tou 庄头
+25 4 zhuang tou 庄头
+26 4 ling cui 领催
+27 4 tui ding 退丁
+28 4 you ding 幼丁
+1 5 bing ding 兵丁
+5 5 tui zhuang tou 退庄頭
+7 5 xin zeng jia ding 新增甲丁
+8 5 liu pin yu ku shi 六品銜庫使
+9 5 fei ding 废丁
+10 5 xin zeng ding 新增丁
+11 5 jia ding 甲丁
+12 5 tao wei zui 逃未遂
+13 5 chen tao 陈逃
+14 5 xin zeng ding 新增丁
+15 5 xin zeng ding 新增丁
+16 5 tui ding 退丁
+17 5 xin zeng zhuang ding 新增壮丁
+18 5 tao ding 逃丁
+19 5 xin ding 新丁
+20 5 bai zong 百总
+21 5 sheng bing 牲兵
+22 5 tui jia 退甲
+23 5 xin zeng ding 新增丁
+24 5 tao ding 逃丁（记逃有案）
+25 5 xin zeng ding 新增丁
+26 5 tui xiao ling cui 退小领催
+27 5 tou hu zhuang ding 投户壮丁
+28 5 kai dang zhuang ding 开档壮丁
+1 6 fei ding 废丁
+2 6 fei ding 废丁
+3 6 fei ding 废丁
+4 6 fei ding 废丁
+5 6 tui ding 退丁
+6 6 yu ding 鱼丁
+7 6 xin ru 新入
+8 6 hou bu cui zhang 候補催長
+9 6 chen tui 陈退
+10 6 bi tie shi 笔帖式
+11 6 bang ding 帮丁
+12 6 lao ding 老丁
+13 6 jia ding 甲丁
+14 6 lao tui 老退
+15 6 fei ding 废丁
+16 6 xin zeng ding 新增丁
+17 6 bai zong 百总
+18 6 ji jiang 机匠
+20 6 bi tie shi 笔帖士
+21 6 gu sheng bing 故牲兵
+22 6 jia ding 甲丁
+23 6 tao ding 逃丁（陈逃有案）
+24 6 ling cui 领催
+25 6 zhuang ding (lao tui) 壮丁(老退)
+26 6 lao ding 老丁
+27 6 fei ding 废丁
+28 6 gu ding 故丁
+1 7 chen fei ding 陈废丁
+2 7 chen fei ding 陈废丁
+4 7 chen fei ding 陈废丁
+5 7 chen tao 陈逃
+6 7 chen tao 陈逃
+7 7 fei ding 废丁
+8 7 tao ding 逃丁
+9 7 zhuang ding lao tui 壮丁老退
+10 7 xin zeng jia ding 新增甲丁
+11 7 xin ru ding 新入丁
+12 7 kai dang zhuang ding 开档壮丁
+13 7 wo peng tou 窝棚头
+14 7 fa qian 罚遣
+15 7 ji jiang 机匠
+16 7 chu jia 出家
+17 7 xin zeng ding 新增丁
+18 7 tui ji jiang 退机匠
+20 7 ku shi 库使
+21 7 zhu xian da 朱显达
+22 7 you ding 幼丁
+23 7 chu shou xin ru ding 初首新入丁
+24 7 tui ding 退丁
+25 7 mian hua zhuang tou da 棉花庄头 (显)达
+26 7 tao ding 逃丁
+27 7 ran jiang 染匠
+28 7 lao ding 老丁
+1 8 lao ding 老丁
+3 8 lao ding 老丁
+4 8 lao ding 老丁
+5 8 chen fei 陈废
+6 8 yi sheng 佾生
+7 8 bang ding 帮丁
+8 8 lan ling wu pin ding dai jian sheng cui zhang 藍翎五品頂戴甲丁
+9 8 xiao tou 小头
+10 8 zhuang ding 壯丁
+11 8 lao tui 老退
+12 8 bao yang zhuang ding 抱养壮丁
+13 8 feng ding 蜂丁
+14 8 xin zeng zhuang ding 新增壮丁
+15 8 tui ding 退丁
+16 8 xin ru ding (xin ding) 新入丁
+17 8 tao ding 逃丁
+18 8 xin zeng ding 新增丁
+20 8 tui shang ren 退商人
+21 8 you ding 幼丁
+22 8 tui ding 退丁
+23 8 ji jiang 机匠
+24 8 tui bao yi da 退包衣达
+25 8 tui ding 退丁
+26 8 tui ding 退丁
+27 8 tao ding 逃丁
+28 8 xin zeng ding 新增丁
+1 9 lao tui 老退
+2 9 lao tui 老退
+3 9 lao tui 老退
+4 9 lao tui 老退
+5 9 lao tui 老退
+6 9 xiu cai 秀才
+7 9 tui jia ding 退甲丁
+8 9 sheng yuan 生員
+10 9 tui guan xue sheng 退官学生
+11 9 xin zeng zhuang ding 新增壮丁
+12 9 tou cong zhuang ding 投从壮丁
+13 9 lao tui 老退
+14 9 tui ding 退丁
+15 9 tui bai zong 退百总
+16 9 zhuang ding 壯丁
+17 9 shao huang wa ding 烧黄瓦丁
+18 9 xin ru ding 新入丁
+20 9 hou bu bi tie shi 候补笔帖士
+21 9 zhuang ding 壮丁
+22 9 tao ding 逃丁
+23 9 xin ru ding xin ding 新入丁、新丁
+24 9 fei ding 废丁
+25 9 chen tao you an 陈逃有案
+26 9 zhuang ding 壮丁
+27 9 kai dang zhuang ding 开档壮丁
+28 9 kai dang fei ding 开档废丁
+1 10 tui ding 退丁
+2 10 tui ding 退丁
+3 10 tui ding 退丁
+4 10 tui ding 退丁
+5 10 lao ding 老丁
+6 10 tui ding 退丁
+7 10 tui ding 退丁
+8 10 tui ding 退丁
+9 10 tui ding lao tui 退丁老退
+10 10 tui jia ding 退甲丁
+11 10 fei ding 废丁
+12 10 jia ding 甲丁
+13 10 xin zeng mi ding 新增蜜丁
+14 10 bang ding 帮丁
+15 10 lao tui 老退
+16 10 xin ru 新入
+17 10 wa ding 瓦丁
+18 10 mu zhang 牧长
+20 10 tui bai zong 退百总
+21 10 tui ding 退丁
+22 10 lao ding 老丁
+23 10 tui ding 退丁
+24 10 xin zeng ding 新增丁
+25 10 tui zhuang tou xian da 退庄头 显达
+26 10 tao ding (zhu tao you an) 逃丁（注逃有案）
+27 10 xin ding 新丁
+28 10 kai dang lao ding 开档老丁
+1 11 chen tui 陈退
+2 11 chen tui 陈退
+3 11 chen tui 陈退
+4 11 chen tui 陈退
+5 11 chen tui 陈退
+6 11 xin zeng yu ding 新增鱼丁
+7 11 cha chu xin ru 查出新入
+8 11 ge jia 革甲
+9 11 chen fei 陈废
+10 11 chen tao 陈逃
+11 11 zu zhang 族长
+12 11 bao yang jia ding 抱养甲丁
+13 11 fei ding 废丁
+14 11 jian sheng 监生
+15 11 tao ding 逃丁
+16 11 xin zeng pi ding 新增皮丁
+17 11 niu lu ling cui 牛录领催
+18 11 xiu cai 秀才
+20 11 sheng yuan 生员
+21 11 tao ding 逃丁
+22 11 mu zhang 牧长
+23 11 tui jia ding 退甲丁
+24 11 tao ding 逃丁
+25 11 fei ding 废丁
+26 11 xiao ling cui 小领催
+27 11 lao ding 老丁
+28 11 zhuang ding (lao tui) 壮丁（老退）
+1 12 tui jia 退甲
+2 12 tui jia 退甲
+3 12 tui jia 退甲
+4 12 tui jia 退甲
+5 12 can fei 殘廢
+6 12 fen ding 坟丁
+7 12 you ding 幼丁
+8 12 jian sheng 监生
+9 12 chen tao 陈逃
+10 12 zhi shi ren 执事人
+11 12 tui bang ding 退帮丁
+12 12 bang ding 帮丁
+13 12 zhuang ding 壯丁
+14 12 xin zeng jia ding 新增甲丁
+15 12 tui guan xue sheng 退官学生
+16 12 sheng ding 牲丁
+17 12 cheng ding 城丁
+18 12 tui bang ding 退帮丁
+20 12 gong sheng 贡生
+21 12 ge tui sheng ding 革退牲丁
+22 12 xiao chu qi dang 销除旗档
+23 12 tui ji jiang 退机匠
+24 12 ge tui ling cui 革退领催
+25 12 tui zhuang tou 退庄头
+26 12 ting shi 听事
+27 12 xin ru ding 新入丁
+28 12 xin ding 新丁
+1 13 tao ding 逃丁
+2 13 tao ding 逃丁
+3 13 tao ding 逃丁
+4 13 tao ding 逃丁
+5 13 you ding 幼丁
+6 13 fen ding 坟丁
+7 13 xin ding 新丁
+8 13 you ding 幼丁
+9 13 he shang 和尚
+10 13 xin zeng guan xue sheng 新增官学生
+11 13 tui ding 退丁
+12 13 xin zeng ding 新增丁
+13 13 xin zeng feng ding 新增蜂丁
+14 13 mai mai ren 买卖人（商人）
+15 13 bai zong 百总
+16 13 jia ding 甲丁
+17 13 xin zeng jia ding 新增甲丁
+18 13 tui mu ding 退牧丁
+20 13 gu bi tie shi 故笔帖士
+21 13 man zhou xian san 满州闲散
+22 13 fei ding 废丁
+23 13 tui bai zong 退百总
+24 13 xian 闲
+25 13 tui mian hua zhuang tou da 退棉花庄头 达
+26 13 you ding 幼丁
+27 13 kai dang tui bai zong 开档退百总
+28 13 zhuang tou 庄头
+3 14 mi ding 蜜丁
+4 14 mi ding 蜜丁
+5 14 tao ding 逃丁
+6 14 xin zeng ding 新增丁
+7 14 tao ding 逃丁
+8 14 liu pin ding dai cui zhang 六品頂戴催長
+9 14 tui ding 退丁
+10 14 tao ding 逃丁
+11 14 ge tui jia ding 革退甲丁
+12 14 mu ding 牧丁
+13 14 tui cai mi ling cui 退采蜜领催
+14 14 jun xiu 俊秀
+15 14 hou bu bi tie shi 侯补笔帖式
+16 14 tui jia ding 退甲丁
+17 14 tui guan xue sheng 退官学生
+18 14 mu ding 牧丁
+20 14 sui gong 岁贡
+21 14 xian san 闲散
+22 14 guan da 馆达
+23 14 lao tui 老退
+24 14 bao yi da 包衣达
+25 14 mian hua zhuang tou 棉花庄头
+27 14 ji jiang 机匠
+28 14 xin ru fei ding 新入废丁
+3 15 xin zeng mi ding 新增蜜丁
+5 15 xin ru lou ding 新入漏丁
+6 15 xin fen ding 新坟丁
+7 15 gu ding 故丁
+8 15 lan ling wu pin ding dai jian sheng cui zhang 藍翎五品頂戴監生催長
+9 15 xin zeng fei ding 新增废丁
+10 15 chu dao xin ru 出道新入
+11 15 xin ru 新入
+12 15 tui mu ding 退牧丁
+13 15 xin zeng ding 新增丁
+14 15 jia ding 甲丁
+15 15 tui jia ding 退甲丁
+16 15 chen fa qian 陈发遣
+17 15 tui jia ding 退甲丁
+18 15 tui jia ding 退甲丁
+20 15 fu sheng 附生
+21 15 gu ling cui 故领催
+22 15 bi tie shi 笔帖式
+23 15 fa qian 发遣
+24 15 you ding 幼丁
+25 15 tao ding 逃丁
+27 15 gu ding 故丁
+28 15 yan ding 盐丁
+1 16 bang ding 帮丁
+2 16 bang ding 帮丁
+4 16 bang ding 帮丁
+5 16 xin ru mian ding 新入棉丁
+6 16 fei ding 废丁
+7 16 lao ding 老丁
+8 16 hua ling wu pin yu ji ming tang zhu shi si ku花翎五品銜記名堂主事司庫
+9 16 mai mai ren 买卖人
+10 16 tui ding 退丁
+11 16 zhi shi ren 执事人
+12 16 ran jiang 染匠
+13 16 tui wo peng tou 退窝棚头
+14 16 zhi shi ren 执事人
+15 16 chen chu jia 陈出家
+16 16 man zhou jia ding 满洲甲丁
+17 16 tui bai zong 退百总
+18 16 yu ding 渔丁
+20 16 juan na zhu shi 捐纳主事
+21 16 tui sheng ding 退牲丁
+22 16 ge tui jia ding 革退甲丁
+23 16 xin zeng zhuang ding 新增壮丁
+24 16 tui ling cui 退领催
+25 16 zhuang xian da 庄显达
+27 16 tui ran jiang 退染匠
+28 16 tou cong lao ding 投从老丁
+5 17 juan na cong jiu pin 捐納从九品
+6 17 zhuang ding 壯丁
+7 17 cui zhang 催长
+8 17 yuan cheng yu guan xue sheng hou bu ling cui 苑丞銜官學生候補領催
+9 17 zhi shi ren 执事人
+10 17 guan xue sheng 官學生
+11 17 chu shou xin ru ding 出首新入丁
+12 17 tui ran jiang 退染匠
+13 17 tui ding 退丁
+14 17 wai lang 外郎
+15 17 ran jiang 染匠
+16 17 xian san 闲散
+17 17 xin ru ding 新入丁
+18 17 fei ding 废丁
+20 17 jian sheng 监生
+21 17 tui zhu xian da 退朱显达
+22 17 mi ding 蜜丁
+23 17 tui mu zhang 退牧长
+24 17 yin jiang 银匠
+25 17 chen tao wei sui 陈逃未遂
+27 17 kai dang fei ding 开档废丁
+28 17 xin ru 新入
+1 18 ji jiang 机匠
+4 18 ji jiang 机匠
+5 18 xin ru xuan zhuang tou 新入选庄头
+6 18 lao ding 老丁
+7 18 mu zhang 牧长
+8 18 guan xue sheng 官學生
+9 18 tui jia 退甲
+10 18 xin ru ding 新入丁
+11 18 lao ding 老丁
+12 18 gong jiang 弓匠
+13 18 xin ru ding 新入丁
+14 18 xin ding 新丁
+15 18 qi jiang 漆匠
+16 18 man zhou xian san 满洲闲散
+17 18 mai mai ren 买卖人
+18 18 xin zeng jia ding 新增甲丁
+20 18 tui guan xue sheng 退官学生
+21 18 tui sheng jia 退牲甲
+22 18 zhi shi ren 执事人
+23 18 niu lu ling cui 牛录领催
+24 18 xin ding 新丁
+25 18 tao ding (chen tao you an ) 逃丁(陈逃有案)
+27 18 kai dang lao ding 开档老丁
+28 18 tou cong fei ding 投从废丁
+1 19 ke zi jiang 稞子匠
+4 19 ke zi jiang 稞子匠
+5 19 zhuang ding 壯丁
+6 19 tao ding 逃丁
+7 19 guan xue sheng 官學生
+7 19 yuan cheng yu hou bu xiao qi xiao jian sheng 苑丞銜候補驍騎校監生
+8 19 jia ding甲丁
+9 19 a jun 阿军
+10 19 lao ding 老丁
+11 19 you ding 幼丁
+12 19 tui gong jiang 退弓匠
+13 19 fa qian 发遣
+14 19 you ding 幼丁
+15 19 liang zhuang zhi shi ren 粮庄执事人
+16 19 ran pi bai zong 染皮百总
+17 19 fei ding 废丁
+18 19 tui bai zong 退百总
+20 19 fei ding 废丁
+21 19 man zhou 满州
+22 19 xiao qi xiao 骁骑校
+23 19 cui zhang 催长
+24 19 tao ding 壮丁（具呈报逃）
+25 19 zhuang ding (tao you an) 壮丁(逃有案)
+27 19 mian ding 棉丁
+28 19 tui ding 退丁
+1 20 hua er jiang 花儿匠
+4 20 hua er jiang 花儿匠
+5 20 juan jie yi xu 捐納議敘
+6 20 you ding 幼丁
+7 20 zhi shi ren 执事人
+7 20 lan ling zuo ling yu ji bu xiao qi xiao ding dai 藍翎佐領銜即補驍騎校
+8 20 ling cui 頂戴領催
+9 20 you ding 幼丁
+10 20 xin zeng zhuang ding 新增壮丁
+11 20 xin ru zhuang ding 新入壮丁
+12 20 ji jiang 机匠
+13 20 xiao qi xiao 骁骑校
+14 20 tui zu zhang 退族长
+15 20 guan xue sheng 官學生
+16 20 chen fei, chen can fei 陈废、陈残废
+17 20 gu bing 故兵
+18 20 zhi shi ren 执事人
+20 20 gu shang ren 故商人
+21 20 jue er cha man zhou 觉尔查满州
+22 20 si ku 司库
+23 20 tui guan xue sheng 退官学生
+24 20 tao ding 逃丁（陈逃有案）
+25 20 chu jia 出家
+27 20 you ding 幼丁
+28 20 ji tao you an 记逃有案
+1 21 yu ding 鱼丁
+2 21 yu ding 鱼丁
+5 21 jia juan ying qian zong 加捐營千總
+6 21 sheng yuan 生員
+7 21 liang zhuang zhi shi ren 粮庄执事人
+8 21 hua ling si pin yu xiao qi xiao 花翎四品銜驍騎校
+9 21 bai zong 百总
+10 21 niu lu ling cui 牛录领催
+11 21 jian sheng 监生
+12 21 tui ji jiang 退机匠
+13 21 bi tie shi 笔帖式
+14 21 zu zhang 族长
+15 21 tui ji jiang 退机匠
+16 21 chen tui 陈退
+17 21 gu ding 故丁
+18 21 xin ru zhuang ding 新入壮丁
+20 21 gu ding 故丁
+21 21 jue er cha xian san 觉尔查闲散
+22 21 zuo ling 佐领
+23 21 fei ding 废丁
+24 21 zhuang ding 壮丁（老退）
+25 21 xin ru ding 新入丁
+27 21 mi ding 蜜丁
+28 21 bao yang lao ding 抱养老丁
+1 22 pi jiang 皮匠
+5 22 jian sheng 监生
+6 22 fa qian 发遣
+7 22 guo yuan zhi shi ren 果園執事人
+8 22 hua ling si chuan hou bu zhi fu 花翎四川候補知府
+9 22 tui bai zong 退百总
+10 22 ku shi 库使
+11 22 tao ding 逃丁
+12 22 cui ling 催领
+13 22 tui jia ding 退甲丁
+14 22 guan fu ding niu 馆夫丁牛
+15 22 gong jiang 弓匠
+16 22 bai zong 百总
+17 22 tui niu lu ling cui 退牛录领催
+18 22 niu lu ling cui 牛录领催
+20 22 gu jian sheng 故监生
+21 22 wen xiang sheng 文庠生
+22 22 sheng yuan 生员
+23 22 chen fa qian 陈发遣
+24 22 xin ru you ding 新入幼丁
+25 22 yan zhuang tou 盐庄头
+27 22 tui tou ding 退投丁
+28 22 zhuang ding (ji tao you an ) 壮丁(记逃有案)
+1 23 zhi shi ren 执事人
+2 23 zhi shi ren 执事人
+4 23 zhi shi ren 执事人
+5 23 juan na jian sheng 捐纳监生
+6 23 zu zhang 族长
+7 23 ge tui zhi shi ren 革退执事人
+8 23 fu jing li yu 府經曆銜
+9 23 fu ling cui 副领催
+10 23 ge tui jia ding 革退甲丁
+11 23 xin ru you ding 新入幼丁
+12 23 tui cui ling 退催领
+13 23 tui bai zong 退百总
+14 23 tui jia 退甲
+15 23 xin ru ding 新入丁
+16 23 tui bai zong 退百总
+17 23 you ding 幼丁
+18 23 liang zhuang zhi shi ren 粮庄执事人
+20 23 gu sheng yuan 故生员
+21 23 gu zhu xian da 故朱显达
+22 23 da sheng jia ding 打牲甲丁
+23 23 guan da 馆达
+24 23 tui xiao ling cui 退小领催
+25 23 yan ding 盐丁
+27 23 zhuang ding (zhu tao you an ) 壮丁(注逃有案)
+28 23 bao yang fei ding 抱养废丁
+1 24 you ding 幼丁
+2 24 you ding 幼丁
+3 24 you ding 幼丁
+4 24 you ding 幼丁
+5 24 xin juan jian sheng 新捐监生
+6 24 lao tui 老退
+7 24 tui liang zhuang zhi shi ren 退粮庄执事人
+8 24 liu pin ding dai jia ding 六品頂戴甲丁
+9 24 en ci jiu pin ding dai 恩赐九品顶带
+10 24 su la chang sui 苏拉长随
+11 24 xin ru fei ding 新入废丁
+12 24 bai zong 百总
+13 24 yi feng xiu zhi lang 貤封修聀郎
+14 24 tui zhi shi ren 退执事人
+15 24 (pao) 跑
+16 24 tui ran pi bai zong 退染皮百总
+17 24 guan xue sheng 官學生
+18 24 xin zeng guan xue sheng 新增官学生
+20 24 cheng ding 城丁
+21 24 fu sheng 附生
+22 24 tui da sheng jia ding 退打牲甲丁
+23 24 ku shi 库使
+24 24 xiao ling cui 小领催
+25 24 tao you an 逃有案
+27 24 tao ding (zhu tao) 逃丁(注逃)
+28 24 tui bai zong 退百总
+1 25 tui hua er jiang 退花儿匠
+2 25 tui hua er jiang 退花儿匠
+5 25 lou ding 漏丁
+6 25 xin ru ding 新入丁
+7 25 ge tui cui zhang 革退催长
+8 25 xin zeng zhuang ding 新增壮丁
+9 25 wai lang 外郎
+10 25 xiao qi xiao 骁骑校
+11 25 yi sheng 佾生
+12 25 tui bai zong 退百总
+13 25 yi feng ru ren 貤封儒人
+14 25 tui bi tie shi 退笔帖式
+15 25 zhi shi ren 执事人
+16 25 xin zeng jia ding 新增甲丁
+17 25 tui ding 退丁
+18 25 guan xue sheng 官學生
+20 25 cheng zhuang tou 城庄头
+22 25 juan na bi tie shi 捐纳笔贴式
+23 25 zhi shi ren 执事人
+24 25 xin ru fei ding 新入废丁
+25 25 yan ding lao tui 盐丁老退
+27 25 xiao chu qi dang 销除旗档
+28 25 fen da 坟达
+1 26 gong jiang 弓匠
+4 26 gong jiang 弓匠
+5 26 xin fang zhuang tou 新放庄头
+6 26 xin ding 新丁
+7 26 ge tui jia ding 革退甲丁
+8 26 mai mai ren 买卖人
+9 26 shui lang 水郎
+10 26 you ding 幼丁
+11 26 zeng ding 增丁
+12 26 zhi shi ren 执事
+13 26 guan xue sheng 官學生
+14 26 sheng yuan 生員
+15 26 tui gong jiang 退弓匠
+16 26 da sheng (ding) 打牲（丁）
+17 26 gu ling cui 故领催
+18 26 tui yu ding 退渔丁
+20 26 shang ren 商人
+22 26 ge jia 革甲
+23 26 xin zeng jia ding 新增甲丁
+24 26 zhuang ding 壮丁（老退）
+25 26 dian zhuang tou 靛庄头
+27 26 tui ji jiang 退机匠
+28 26 ling cui 领催
+1 27 guan xue sheng 官學生
+4 27 guan xue sheng 官學生
+5 27 zhuang tou mian tou 庄头棉头
+6 27 you nu 幼丁
+7 27 mu ding 牧丁
+8 27 bang ding 帮丁
+9 27 ji jiang 机匠
+10 27 tui xiao qi xiao 退骁骑校
+11 27 ru ding 入丁
+12 27 tui zhi shi ren 退执事
+13 27 you ding 幼丁
+14 27 fu ding 夫丁
+15 27 lao ding 老丁
+16 27 you ding 幼丁
+17 27 tui mai mai ren 退买卖人
+18 27 lao ding 老丁
+20 27 bang ban shang ren 帮办商人
+22 27 gu tui jia 故退甲
+23 27 yu ding 鱼丁
+24 27 xin zeng fei ding 新增废丁
+25 27 dian ding 靛丁
+27 27 xin ru zhuang ding 新入壮丁
+28 27 fen ding 坟丁
+1 28 ge tui jia ding 革退甲丁
+4 28 ge tui jia ding 革退甲丁
+5 28 tui mian zhuang tou 退棉庄头
+6 28 xin ru tui ding 新入退丁
+7 28 tui jia ding 退甲丁
+8 28 yuan ren si ku 原任司庫
+9 28 guan da 馆达
+10 28 mu bing 牧兵
+11 28 tui zhuang ding 退壮丁
+12 28 guan xue sheng 官學生
+13 28 lao ding 老丁
+14 28 guan xue sheng 官學生
+15 28 bing 兵
+16 28 lao ding 老丁
+17 28 ge tui jia ding 革退甲丁
+18 28 ku shi 库使
+20 28 tui ku shi 退库使
+22 28 zhu xian da 朱显达
+23 28 bai zong 百总
+24 28 xin ru ding 新入丁
+25 28 you ding 幼丁
+27 28 xin ru mi ding 新入蜜丁
+28 28 xin zeng fen ding 新增坟丁
+1 29 mu ding 牧丁
+5 29 fei ding 废丁
+6 29 xin ru lao ding 新入老丁
+7 29 xin ru lao ding 新入老丁
+8 29 xiu cai 秀才
+9 29 ying qian zong 营千总
+10 29 tui bai zong 退百总
+11 29 guan xue sheng 官學生
+12 29 tui guan xue sheng 退官学生
+13 29 xian gu 闲故
+14 29 tui shang ren
+15 29 you ding 幼丁
+16 29 tao ding 逃丁
+17 29 tui mai mai ren 退买卖人
+18 29 bing 兵
+20 29 gu bi tie shi 故笔帖士
+22 29 ge tui da sheng jia 革退打牲甲
+23 29 guan xue sheng 官学生
+24 29 xin ru zhuang ding 新入壮丁
+25 29 xin zeng zhuang ding 新增壮丁
+27 29 tui ding (zhu tao) 退丁(注逃)
+28 29 tao ding (ju cheng bao tao) 逃丁（具呈报逃）
+1 30 tui ke zi jiang 退稞子匠
+4 30 tui ke zi jiang 退稞子匠
+5 30 xin fang bang ban zhuang tou 新放帮办庄头
+6 30 xin ru lou ding 新入漏丁
+7 30 xin ru fei ding 新入废丁
+8 30 yuan ren bi tie shi 原任筆貼式
+9 30 wu sheng 武生
+10 30 bai zong 百总
+11 30 ji jiang 机匠
+12 30 hou bu ku shi 候补库使
+13 30 ding gu 丁故
+14 30 ge jia 革甲
+15 30 niu lu ling cui 牛录领催
+16 30 da sheng jia ding 打牲甲丁
+18 30 xian ju 闲居
+20 30 gu juan gong 故捐贡
+22 30 xin ru ding 新入丁
+23 30 xuan jiang 弦匠
+24 30 jian sheng 监生
+25 30 tui dian zhuang tou 退靛庄头
+27 30 tao ding (zhu tao,xiao chu qi dang) 逃丁(注逃、销除旗档)
+28 30 zhuang ding (ju cheng bao tao) 壮丁（具呈报逃）
+1 31 tui jiang 退匠
+5 31 cong jiu pin 从九品
+6 31 yu qian zong 魚千總
+8 31 fei ding 废丁
+9 31 cong jiu pin jia ding 从九品甲丁
+10 31 mu zhang 牧长
+11 31 guan fu 馆夫
+12 31 ku shi 库使
+13 31 mai mai ren 买卖人
+14 31 gong sheng 贡生
+15 31 ling cui 领催
+16 31 tui da sheng jia ding 退打牲甲丁
+17 31 tui wa ding 退瓦丁
+18 31 you ding 幼丁
+20 31 jia ding 甲丁
+22 31 mu ding 牧丁
+23 31 xin guan xue sheng 新官学生
+24 31 gong sheng 贡生
+25 31 tui yan ding 退盐丁
+27 31 tui ding (xiao chu qi dang) 退丁(销除旗档)
+28 31 tao ding (chen tao you an) 逃丁（陈逃有案）
+1 32 tui guan xue sheng 退官学生
+4 32 tui guan xue sheng 退官学生
+5 32 qi pin ding dai 七品顶戴
+6 32 zeng ding 增丁
+8 32 xin ru ding 新入丁
+9 32 tui hua er jiang 退花儿匠
+10 32 ge tui bing 革退兵
+11 32 man zhou zhuang ding 满洲壮丁
+12 32 jian sheng 监生
+13 32 you ding 幼丁
+14 32 tong jiang 铜匹
+15 32 (xian) 闲
+16 32 ku shi 库使
+17 32 zhi shi ren 执事人
+18 32 ge tui jia ding 革退甲丁
+20 32 you ding 幼丁
+22 32 da sheng ding 打牲丁
+23 32 tao ding 逃丁、逃
+24 32 ge tui bao yi da 革退包衣达
+25 32 chu shou xin ru ding 出首新入丁
+27 32 tao ding (xiao chu qi dang) 逃丁(销除旗档)
+28 32 kai dang tao ding 开档逃丁
+1 33 cai feng 裁縫
+5 33 liu pin ding dai 六品顶戴
+6 33 xin fang qian zong 新放千总
+7 33 gong jiang 弓匠
+8 33 fa qian 发遣
+9 33 tui guan da 退馆达
+10 33 ji jiang 机匠
+11 33 man zhou tui ding 满洲退丁
+12 33 you ding 幼丁
+13 33 bing gu 兵故
+14 33 tong zhou 同州
+15 33 bi tie shi 笔帖式
+16 33 tui pi ding 退皮丁
+18 33 qi jiang 漆匠
+20 33 tui cheng zhuang tou 退城庄头
+22 33 sheng ding 牲丁
+23 33 gu ding 丁（故）
+24 33 wei fang xiao ling cui 委放小领催
+25 33 dian ding lao tui 靛丁老退
+27 33 ge ji jiang 革机匠
+28 33 kai dang tui mian hua zhuang tou 开档退棉花庄头
+1 34 guan fu 馆夫
+5 34 juan na ying qian zong 捐纳营千总
+6 34 tui zu zhang 退族长
+7 34 xin zeng guan xue sheng 新增官学生
+8 34 tui mai mai ren 退买卖人
+9 34 sheng yuan 生员
+10 34 ding dai ling cui 顶带领催
+11 34 man zhou zu zhang 满洲族长
+12 34 tui jia ding 退甲丁
+13 34 yuan ren xiao qi xiao 原任骁骑校
+14 34 wu sheng 武生
+15 34 (bing tui) 兵退
+16 34 jian sheng 监生
+18 34 xin zeng ji jiang 新增机匠
+20 34 juan na bi tie shi 捐纳笔帖士
+23 34 gu bing 兵（故）
+24 34 cong jiu pin 从九品
+25 34 tui dian ding 退靛丁
+27 34 xin ru lou ding 新入漏丁
+28 34 mian ding 棉丁
+1 35 ran jiang 染匠
+4 35 ran jiang 染匠
+5 35 you mian ding 幼棉丁
+6 35 qi zhang 旗長
+7 35 gu bing 故兵
+8 35 xin zeng xiu cai 新增秀才
+9 35 jian sheng 监生
+10 35 cui zhang 催长
+11 35 man zhou 满洲
+12 35 fei ding 废丁
+13 35 ge tui bi tie shi 革退笔帖式
+14 35 yi sheng 佾生
+15 35 si ku 司库
+16 35 tui sheng ding 退牲丁
+18 35 bai zong 百总
+20 35 wu sheng 武生
+23 35 gu xian 闲（故）
+24 35 juan na jian sheng 捐纳监生
+25 35 (gu) xian (故)闲
+27 35 tui bai zong 退百总
+28 35 kai dang mian ding 开档棉丁
+1 36 ku shi 库使
+2 36 ku shi 库使
+4 36 ku shi 库使
+5 36 bang ban zhuang tou 帮办庄头
+7 36 chu shou xin ru 出首新入
+8 36 lao ding 老丁
+9 36 wu sheng 武生
+10 36 hou bu bi tie shi 侯补笔帖式
+11 36 man zhou jia ding 满洲甲丁
+12 36 fa qian 发遣
+13 36 xin ding 新丁
+14 36 jin shi 进士
+15 36 xin zeng jia ding 新增甲丁
+16 36 fa qian 发遣
+17 36 ji jiang 机匠
+18 36 cui zhang 催长
+20 36 juan gong 捐贡
+23 36 tao ding 逃丁（记逃有案）
+24 36 juan na cong jiu pin 捐纳从九品
+25 36 lao ding 老丁
+27 36 lao ding (chen tao you an ) 老丁(陈逃有案)
+28 36 tou cong 投从
+1 37 tui mu ding 退牧丁
+5 37 juan na zhou tong xian jian sheng 捐纳州同衔监生
+7 37 xin ru ding 新入丁
+9 37 guan xue sheng 官學生
+10 37 ran jiang 染匠
+11 37 man zhou lao ding 满洲老丁
+12 37 gu ding 雇丁
+13 37 xin ru fei ding 新入废丁
+14 37 hou bu bi tie shi 候补笔帖式
+15 37 ge tui zhi shi ren 革退执事人
+16 37 bang ding 帮丁
+17 37 tui cheng zhuang tou 退城庄头
+18 37 xiao qi xiao 骁骑校
+20 37 bang ding 帮丁
+23 37 lao ding 老丁
+24 37 xin ru 新入
+25 37 (gu) bing (故)兵
+28 37 lao ding(chen tao you an) 老丁（陈逃有案）
+1 38 tui gong jiang 退弓匠
+4 38 tui gong jiang 退弓匠
+5 38 sheng yuan 生员
+7 38 tui gong jiang 退弓匠
+8 38 bi tie shi 笔帖式
+9 38 wu ju jia ding 武举甲丁
+10 38 tui ji jiang 退机匠
+11 38 tui guan xue sheng 退官学生
+12 38 tao fan hui 逃返回
+13 38 you nu 幼丁
+14 38 xin juan jian sheng 新捐监生
+15 38 xin ding 新丁
+16 38 xin zeng sheng ding 新增牲丁
+17 38 cheng zhuang tou 城庄头
+18 38 zhi shi ren 执事人
+20 38 fu bang 副榜
+23 38 you ding 幼丁
+24 38 xin ru lao ding 新入老丁
+25 38 tui zhuang tou gao li 退庄头 高丽
+28 38 mian hua zhuang tou 棉花庄头
+1 39 ge tui ding 革退丁
+5 39 lan ling liu pin ding dai 蓝翎六品顶戴
+7 39 you nu 幼丁
+8 39 xin jie mai mai ren 新接买卖人
+9 39 wu ju 武举
+10 39 tui guan xue sheng 退官学生
+11 39 man zhou ge jia ding 满洲革甲丁
+12 39 you nu 幼丁
+13 39 hao feng wu lue lang 诰封武略郎
+14 39 chen tao you an 陈逃有案
+15 39 you nu 幼丁
+16 39 jue er cha man zhou 觉尔查满洲
+17 39 juan na jian sheng 捐纳监生
+18 39 ling cui 领催
+20 39 gu ju ren 故举人
+23 39 zhuang ding (ju cheng bao tao) 壮丁（具呈报逃）
+24 39 tao ding 逃丁（咨部注逃）
+25 39 zhuang tou da 庄头 达
+28 39 bao yang zhuang ding 抱养壮丁
+1 40 tui pi jiang 退皮匠
+5 40 juan na gong sheng 捐纳贡生
+9 40 hao feng wu pin 诰封五品
+10 40 juan na hou bu ku shi 捐纳侯补库使
+11 40 tui bai zong 退百总
+12 40 mu zhang 牧长
+13 40 tui guan xue sheng 退官学生
+14 40 bai zong 百总
+15 40 xiao qi xiao 骁骑校
+16 40 ling cui 领催
+17 40 tui ji jiang 退机匠
+18 40 tui guan xue sheng 退官学生
+20 40 ji jiang 机匠
+23 40 guan fu 馆夫
+24 40 sheng yuan 生员
+25 40 zhuang tou da gao li 庄头 达 高丽
+28 40 fei ding (ju cheng bao tao) 废丁（具呈报逃）
+1 41 bi tie shi 笔帖式
+4 41 bi tie shi 笔帖式
+5 41 juan na yi sheng 捐纳佾生？
+7 41 xin ru you ding 新入幼丁
+8 41 guo ding 過丁
+9 41 lin sheng 禀生
+10 41 tui ling cui 退领催
+11 41 sheng yuan 生員
+12 41 xian jiang 弦匠
+13 41 xin zeng jia ding 新增甲丁
+14 41 xiao qi xiao 骁骑校
+15 41 tui qi xiao 退骑校
+16 41 you nu 幼丁
+17 41 juan na hou bu ku shi 捐纳候补库使
+18 41 wang hu da 网户达
+20 41 hua jiang 画匠
+23 41 bi tie shi 笔帖式
+24 41 qi pin ding dai 七品顶戴
+25 41 tui yan zhuang tou 退盐庄头
+28 41 ling cui (lao tui) 领催（老退）
+1 42 fa qian ding 发遣
+5 42 fu jing li zhi xian 府经历职衔
+7 42 lou ding 漏丁
+8 42 xin zeng fei ding 新增废丁
+9 42 liu pin ding dai 六品顶带
+10 42 hou bu ku shi 侯补库使
+11 42 chen chu jia 陈出家
+12 42 ge tui jia ding 革退甲丁
+13 42 xin ru wo peng tou 新入窝棚头
+14 42 fu ling cui 副领催
+15 42 jian sheng 监生
+16 42 xin ru sheng ding 新入牲丁
+17 42 juan na liu pin bi gong 捐纳六品笔宫
+18 42 mai mai ren 买卖人
+20 42 xin zeng ding 新增丁
+23 42 xin zeng jia ding 新增甲丁
+24 42 liu pin ding dai 六品顶戴
+25 42 gao li fei ding 高丽废丁
+28 42 xin fang ling cui 新放领催
+1 43 tui ran jiang 退染匠
+4 43 tui ran jiang 退染匠
+7 43 xin ru zhuang ding 新入壮丁
+8 43 tui ren bi tie shi 退任筆貼式
+9 43 xin ding 新丁
+10 43 tui ran jiang 退染匠
+11 43 ling cui 领催
+12 43 bi tie shi 笔帖式
+13 43 xiao chu qi dang 销除旗档
+14 43 lan ling wu pin wei xiao qi xiao 蓝翎五品卫骁骑校
+15 43 xin ru 新入
+16 43 man zhou 满洲
+17 43 fu ling cui 副领催
+18 43 tui ji jiang 退机匠
+20 43 chen tui 陈退
+23 43 gong jiang 弓匠
+25 43 xin zeng zhuang tou 新增庄头
+28 43 tao ding (ji tao you an) 逃丁（记逃有案）
+1 44 jian sheng 监生
+4 44 jian sheng 监生
+7 44 guan fu 馆夫
+8 44 qi xiao 骑校
+9 44 xin ru 新入
+10 44 jian sheng 监生
+11 44 bai zong 百总
+12 44 xiao chu qi dang 销除旗档
+13 44 xin ru 新入
+14 44 xun feng wu xian jiang jun
+15 44 tui zhi shi ren 退执事人
+16 44 tui sheng bing 退牲兵
+17 44 hou bu bi tie shi 候补笔
+18 44 sheng yuan 生員
+20 44 tui jia 退甲
+23 44 ling cui 领催
+25 44 xin ru fei ding 新入废丁
+28 44 xin ru ding 新入丁
+1 45 gong sheng 贡生
+7 45 ran jiang 染匠
+8 45 xin ru lou ding 新入漏丁
+9 45 xin fang hua jiang 新放花匠
+10 45 guan da 官达
+11 45 guan zhang
+12 45 wei zhu shi 委主事
+13 45 xin zeng zhuang ding 新增壮丁
+14 45 xun feng yun qi wei
+15 45 zeng ding 增丁
+16 45 zhu xian da 朱显达
+17 45 wu sheng 武生
+18 45 tui wang hu da 退网户达
+20 45 lao tui 老退
+23 45 mai mai ren 买卖人
+25 45 gao li zhuang ding 高丽壮丁
+28 45 tou cong tao ding 投从逃丁
+7 46 ji jiang 机匠
+8 46 xin ru you ding 新入幼丁
+9 46 bing bu chai guan 兵部差官
+11 46 shou wei suo qian zong
+12 46 feng zhi dai fu 奉直大夫
+13 46 niu lu ling cui 牛录领催
+14 46 lan ling wu pin wei hou bu bi zheng ji bu xiao zheng jia ding 蓝翎五品卫候补笔政即补校政甲丁
+15 46 xin ru you ding 新入幼丁
+16 46 sheng bing 牲兵
+17 46 liu pin jun gong 六品军工
+18 46 fang wang hu da 放网户达
+20 46 chen tui 陈退
+23 46 xiu cai 秀才
+25 46 gao li zhuang ding lao tui 高丽壮丁老退
+28 46 tou cong zhuang ding 投从壮丁
+1 47 tui guan fu 退馆夫
+7 47 ding dai cui zhang 顶带催长
+8 47 zhi shi ren 执事人
+9 47 qian zong 千总
+11 47 zeng wu de zuo ji wei
+12 47 cheng de lang 承德郎
+13 47 xin ru mi ding 新入蜜丁
+14 47 si ku 司库
+15 47 guan da 馆达
+16 47 tui lao bing 退老兵
+17 47 juan na gong pai 捐纳功牌
+18 47 ge tui bing 革退兵
+20 47 chen fei 陈废
+23 47 tui xuan jiang 退弦匠
+25 47 xin bu zhuang tou 新补庄头
+28 47 tui ling cui 退领催
+1 48 niu lu cui zhang 牛录催长
+2 48 niu lu cui zhang 牛录催长
+7 48 ling cui 领催
+8 48 cui zhang 催长
+9 48 en bing gong sheng 恩禀贡生
+11 48 zuo ling 佐领
+12 48 bang ban bai zong 帮办百总
+13 48 zhi shi ren 执事人
+14 48 ku shi 库使
+15 48 ge ji jiang 革机匠
+16 48 xin juan jian sheng 新捐监生
+17 48 liu pin ding dai 六品顶带
+18 48 yi sheng 佾生
+20 48 ju ren 举人
+23 48 yi sheng 佾生
+25 48 sheng yuan 生员
+28 48 mian hua zhuang tou 棉花庄头
+1 49 liu pin yu jia ding 六品銜甲丁
+4 49 tui ji jiang 退机匠
+7 49 niu lu ling cui 牛录领催
+8 49 zhi shi ren 执事人
+11 49 tui bai zong 退百总
+12 49 zu zhang 旗长
+13 49 xin ru feng ding 新入蜂丁
+14 49 lao ding 老丁
+15 49 shi feng cui zhang 食俸催长
+16 49 xin juan gong sheng 新捐贡生
+17 49 hou bu ku shi 候补库使
+18 49 yi feng xiao qi xiao 貤封骁骑尉
+20 49 gao(yi) feng wen lin lang 诰（贻）封文林郎
+23 49 fu xiao qi xiao 副骁骑校
+25 49 xin ru tui ding 新入退丁
+28 49 yan ding (lao tui) 盐丁(老退）
+1 50 you nu 幼丁
+2 50 you nu 幼丁
+7 50 bai zong 百总
+8 50 hou bu ku shi 侯补库使
+11 50 xiao chu qi dang 销除旗档
+12 50 guo zhu 国住
+13 50 ge tui wo peng tou 革退窝棚头
+14 50 hou bu cui zhang guan da 候补催长、馆达
+15 50 pin zeng wen lin lang 聘赠文林郎
+16 50 xin ru pi ding 新入皮丁
+17 50 wu pin jun gong 五品军工
+18 50 qi jiang 漆匠
+20 50 gao feng xiu zhi lang 诰封修职郎
+23 50 ge tui jia ding 革退甲丁
+25 50 mian ding 棉丁
+28 50 tou cong tui ding 投从退丁
+1 51 liu pin yu cui zhang 六品銜催长
+2 51 liu pin yu cui zhang 六品銜催长
+4 51 tui xiao tou 退小头
+7 51 cui zong 摧总
+8 51 hou bu ku shi 侯补库使
+11 51 cui zhang 催长
+12 51 wu pin ding dai hou bu mu zhang 五品顶戴候补牧长
+13 51 ku shi 库使
+14 51 zhou pan 州判
+15 51 sheng yuan 生員
+16 51 gong sheng 贡生
+17 51 wu pin hou bu ling cui 五品候补领催
+18 51 ge tui bing 革退兵
+20 51 chi feng feng zhi da fu 敕封奉直大夫
+23 51 xiao qi xiao 骁骑校
+25 51 gao li lao ding 高丽老丁
+28 51 tou cong mian hua zhuang tou 投从棉花庄头
+1 52 lan ling wu pin yu hou bu cui zhang zhi shi ren 藍翎五品頂戴監候補催長执事人
+2 52 lan ling wu pin yu hou bu cui zhang zhi shi ren 藍翎五品頂戴監候補催長执事人
+7 52 tui bai zong 退百总
+8 52 yi xu 议叙
+11 52 juan na cong jiu pin 捐纳從九品
+12 52 liu pin ding dai jia ding 六品顶戴甲丁
+13 52 bang wo peng tou 帮窝棚头
+14 52 xian cheng 县丞
+15 52 cui zhang 催长
+16 52 ju ren 举人
+18 52 xin juan zeng bi tie shi 新捐增笔贴式
+20 52 en ci jiu pin ding dai 恩赐九品顶戴
+23 52 mu zhang 牧长
+25 52 tui zhuang tou da gao li 退庄头达高丽
+28 52 xin ru you ding 新入幼丁
+1 53 fu ling cui 副领催
+4 53 guan da 馆达
+7 53 ge tui bai zong 革退百总
+8 53 jiu pin yi xu 九品議敘
+11 53 juan na tong pan 捐纳通判
+12 53 liu pin ding dai ge jia 六品顶戴革甲
+13 53 xin fang wo peng tou 新放窝棚头
+15 53 gong sheng 贡生
+16 53 sheng yuan 生員
+18 53 ding dai ling cui 顶带领催
+20 53 fu bang 副榜
+23 53 chi feng hui shi lang 敕封徵仕朗
+25 53 fen ding 坟丁
+28 53 bao yang tui ding 抱养退丁
+1 54 wu pin ding dai ji bu cui zhang ling cui 五頂戴即補催長領催
+4 54 yin jiang 銀匠
+7 54 jian sheng 监生
+8 54 cong jiu pin 从九品
+12 54 lan ling wu pin jun gong 蓝翎五品军功
+13 54 xin ru you ding 新入幼丁
+15 54 juan na jian sheng 捐纳监生
+16 54 ge tui sheng ding 革退牲丁
+18 54 hou bu bi tie shi 侯补笔帖式
+20 54 cong jiu pin 从九品
+23 54 zhi zao ku cui zhang 织造库催长
+25 54 xin ru dian ding 新入靛丁
+28 54 tui fen ding 退坟达
+1 55 tui zhi shi ren 退执事人
+4 55 tui zhi shi ren 退执事人
+7 55 juan na jian sheng 捐纳监生
+8 55 juan na hou bu cui zhang jia ding 捐纳侯补催長甲丁
+12 55 wu pin ding dai jia ding 五品顶戴甲丁
+13 55 juan na hou bu bi tie shi 捐纳候补笔帖式
+15 55 ju ren 举人
+16 55 juan na cong jiu pin 捐纳从九品
+18 55 ji jiang 机匠
+20 55 xin juan jiu pin xian 新捐九品衔
+23 55 pi jiang 皮匠
+25 55 gu ding 故丁
+28 55 kai dang tui ding 开档退丁
+1 56 bai zong 百总
+2 56 bai zong 百总
+3 56 bai zong 百总
+4 56 bai zong 百总
+7 56 wei guan ling cui 委管領催
+8 56 yuan cheng yu xiao qi xiao 苑丞御骁骑校
+12 56 juan na fu jing li xian 捐纳府经历衔
+13 56 bang ban 帮办
+15 56 wu pin ding dai 五品顶戴
+16 56 hou bu bi tie shi 侯补笔帖式
+18 56 xin fang ji jiang 新放机匠
+20 56 xin zeng zhuang ding 新增壮丁
+23 56 you nu 幼女
+25 56 xin zeng mian ding 新增棉丁
+28 56 zeng ding 增丁
+1 57 tui cui ling 退催领
+2 57 tui cui ling 退催领
+7 57 na wu pin yu 納五品御
+8 57 guan da 馆达
+12 57 qi pin ding dai fu jing li xian zhi shi ren
+13 57 yang feng bai zong 养蜂百总
+15 57 liu pin ding dai 六品顶戴
+16 57 jiu pin yu (xian) 九品御(衔）
+18 57 xin ru lao ding 新入老丁
+20 57 chen tao 陈逃
+23 57 sheng yuan 生员
+25 57 tui zhuang tou da gao li man zhou 退庄头达高丽满洲
+28 57 kai dang 开档
+1 58 tui bai zong 退百总
+2 58 tui bai zong 退百总
+4 58 tui bai zong 退百总
+7 58 wu ju 武举
+12 58 jia ding xian cheng xian 甲丁承衔
+13 58 tui yang feng bai zong 退养蜂百总
+15 58 tong sheng 童生
+16 58 wu xiang sheng 武庠(?)生
+18 58 bi tie shi 笔帖式
+20 58 lin sheng 廪生
+23 58 tui zhuang ding 退壮丁
+25 58 xin ru zhuang ding 新入壮丁
+28 58 tou cong tao ding (chen tao you an) 投从逃丁（陈逃有案）
+1 59 guo yuan zhi shi ren 果園執事人
+7 59 fu ding 夫丁
+12 59 xin zeng jia ding 新增甲丁
+13 59 juan na jian sheng 捐纳监生
+15 59 wen tong 文童
+18 59 ge tui bai zong 革退百总
+20 59 jia gu 甲故
+23 59 hei niu guan da 黑牛馆达
+25 59 xin ru zeng ding 新入增丁
+28 59 gu bai zong 故百总
+4 60 fu ding 夫丁
+7 60 niu fu 牛夫
+8 60 juan na hou bu ku shi 捐纳侯补库使
+12 60 chen chu jia 陈出家
+13 60 ge tui ling cui 革退领催
+15 60 liu pin jun gong 六品军工
+18 60 juan na cong jiu pin 捐纳从九品
+20 60 yi sheng 佾生
+23 60 ying zeng chai ding 应增差丁
+25 60 xin ru you ding 新入幼丁
+28 60 fen zhuang tou 坟庄头
+1 61 zuo luo bai zong 坐落百总
+2 61 zuo luo bai zong 坐落百总
+3 61 zuo luo bai zong 坐落百总
+7 61 jiu pin 九品
+8 61 juan na cong jiu pin 捐纳从九品
+12 61 xin ding 新丁
+15 61 fu ling cui 副领催
+18 61 cong jiu pin 从九品
+20 61 xin zeng cheng ding 新增城丁
+23 61 zhi zao zhi shi ren 织造执事人
+25 61 xin ru mian ding 新入棉丁
+28 61 tui zhuang tou 退庄头
+1 62 tui ku shi 退库使
+7 62 juan na kong ri 捐納孔日
+8 62 gong sheng 贡生
+12 62 niu lu ling cui 牛录领催
+15 62 cong jiu pin 从九品
+18 62 juan na jian sheng 捐纳监生
+20 62 tao ding (zhu tao you an) 逃丁（注逃有案）
+23 62 ding dai ling cui 顶戴领催
+25 62 xin fang zhuang tou da 新放庄头 达
+28 62 kai dang you ding 开档幼丁
+1 63 da xi lin yu ding 打細麟魚丁
+7 63 wu pin ding dai 五品顶戴
+8 63 wen ju ku shi 文举库事
+12 63 xin zeng guan xue sheng 新增官学生
+15 63 xiu zhi jiang 修织匠
+18 63 liu pin jun gong cui zhang 六品军功催长
+20 63 chen tao(zhu tao you an) 陈逃（注逃有案）
+23 63 hei niu guan fu 黑牛馆馆夫
+25 63 jian sheng 监生
+28 63 kai dang zeng ding 开档增丁
+1 64 lan ling wu pin ding dai zhi shi ren 藍翎五品頂戴監执事人
+2 64 lan ling wu pin ding dai zhi shi ren 藍翎五品頂戴監执事人
+4 64 hua jiang 花匠
+7 64 lan ling shou ge xian 藍翎守各銜
+8 64 tong zhi yu 同知御
+12 64 xian 闲
+15 64 gong sheng wei yu 谕
+18 64 xi lin yu ding 细鳞渔丁
+20 64 zeng sheng 增生
+23 64 xin ding (xiao tao zeng chai) 新丁（销逃增差）
+25 64 gong sheng 贡生
+28 64 kai dang yan ding 开档盐丁
+1 65 yi sheng 佾生
+2 65 yi sheng 佾生
+8 65 cui ling 催领
+12 65 xin ru fei ding 新入废丁
+15 65 xun jian zhi wei 巡检卫
+18 65 tui qi jiang 退漆匠
+20 65 guan xue sheng 官学生
+23 65 tui pi jiang 退弓匠
+25 65 gao li man zhou fei ding 高丽满洲废丁
+28 65 tou cong you ding 投从幼丁
+2 66 tui zong 退总
+3 66 tui zong 退总
+7 66 lan ling wu pin ding dai 藍翎五品頂
+8 66 tang zhu shi 堂主事
+12 66 xin ru 新入
+15 66 xuan jiang 弦匠
+18 66 jian sheng 监生
+20 66 ba gong sheng 拔贡生
+23 66 xian san 闲散
+25 66 ju ren 举人
+28 66 tou cong ge tui zhuang tou 投从革退庄头
+2 67 ge ding 革丁
+8 67 wu pin yu tang zhu shi 五品御堂主事
+12 67 xin ru zhuang ding 新入壮丁
+15 67 ku shi 库使
+18 67 ge wang hu da 革网户达
+20 67 en gong 恩贡
+23 67 ge tui bi tie shi 革退笔帖式
+25 67 ge tui zhuang tou 革退庄头
+28 67 tui mian hua zhuang tou 退棉花庄头
+1 68 can fei 殘廢
+4 68 tui zhang ding 退丈丁
+8 68 lan ling wu pin yu si ku 藍翎五品御司庫
+15 68 guan fu 馆夫
+18 68 jian sheng jia ding 监生甲丁
+20 68 xin juan zhu shi 新捐主事
+23 68 jian sheng 监生
+25 68 tui mian ding 退棉丁
+28 68 xiao ling cui 小领催
+1 69 niu lu ling cui 牛录领催
+3 69 niu lu ling cui 牛录领催
+7 69 niu fu 牛夫
+8 69 lan ling si chuan hou bu zhi fu 藍翎四川候补知府
+18 69 tui ku shi 退库使
+20 69 gu bai zong 故百总
+23 69 tui guan fu 退馆夫
+25 69 tui lao ding 退老丁
+28 69 tou cong zeng ding 投从增丁
+1 70 mu zhang 牧长
+4 70 mu zhang 牧长
+7 70 juan na hong mu 捐納紅目
+8 70 liu pin ding dai 六品顶戴
+18 70 liu pin ding dai jia ding 六品顶戴甲丁
+20 70 gu gong sheng 故贡生
+23 70 tui cui zhang 退催长
+25 70 ci tui zhuang tou 辞退庄头
+28 70 bang ban zhuang tou 帮办庄头
+1 71 xin zeng mu jiang 新增木匠
+7 71 lan ling wu pin dai zhu shi mu yu 藍翎五品戴州史目御
+8 71 gao li man zhou ku shi 高丽满洲库使
+18 71 wen sheng 文生
+20 71 cui zhang 催长
+23 71 ge tui guan xue sheng 革退官学生
+25 71 mai mai ren 买卖人
+1 72 zhi zao zhi shi ren 织造执事人
+7 72 lao tui 老退
+8 72 ju ren ku shi 举人、库使
+18 72 juan na gong sheng 捐纳贡生
+20 72 xiao chu qi dang 销除旗档
+23 72 tui ku shi 退库使
+25 72 yi xu zhi xian 议叙职衔
+1 73 xin bu bi tie shi 新侯补笔帖式
+7 73 chu jia 出家
+18 73 fu si ku 副司库
+20 73 ru ren 儒人
+23 73 hou bu bi tie shi 候补笔帖式
+25 73 tao ding (zi bu zhu tao ) 逃丁(咨部注逃)
+1 74 mai mai zhi shi ren 买卖执事人
+7 74 chen chu jia 陈出家
+8 74 zuo ling 佐领
+18 74 xia ding 瞎丁
+20 74 gu guan xue sheng 故官学生
+23 74 chi zeng wu lue qi wei 敕增武略骑尉
+25 74 tui mai mai ren 退买卖人
+1 75 zhi zao ku zhi shi ren 织造库执事人
+7 75 tao hui 逃回
+8 75 chi feng wu lue qi wei 敕封武略骑尉
+20 75 wen lin lang 文林郎
+23 75 xin fang jia ding 新放甲丁
+25 75 gao li man zhou mian ding 高丽满洲棉丁
+1 76 da xi lin yu tui ding 打細麟魚退丁
+7 76 fa yi she hui
+8 76 wei guan ling cui 委官领催
+20 76 gu ba gong sheng 故拔贡生
+23 76 tui hei niu guan fu 退黑牛馆夫
+25 76 gao li man zhou tao ding 高丽满洲逃丁
+1 77 xin fang guan fu 新放馆夫
+7 77 ji tao you an hui gu
+8 77 fu si ku 副司库
+20 77 juan gong 捐贡
+23 77 xin ru you ding 新入幼丁
+25 77 gao li man zhou lao ding 高丽满洲老丁
+1 78 xin fang ran jiang 新放染匠
+4 78 xin fang ran jiang 新放染匠
+7 78 xing qie chu dang
+8 78 ju ren 举人
+20 78 tui si ku 退司库
+23 78 fei ding 废丁（具呈报逃）
+25 78 gao li man zhou 高丽满洲
+1 79 cai feng jiang 裁縫匠
+7 79 ge chu 革出
+8 79 tui bai zong 退百总
+20 79 wu ju 武举
+23 79 xiu zhi lang 修职郎
+25 79 juan na zan li lang xian hou bu bi tie shi 捐纳赞礼郎衔、侯补笔帖式
+1 80 ding dai ling cui 顶带领催
+4 80 ding dai ling cui 顶带领催
+7 80 zhen tao hui gu
+8 80 bai zong 百总
+20 80 chi feng yi ren 敕封宜人
+23 80 wen lin lang 文林郎
+25 80 gao li man zhou zhuang tou 高丽满洲庄头
+1 81 sheng yuan 生員
+2 81 sheng yuan 生員
+4 81 sheng yuan 生員
+7 81 chen tui 陈退
+8 81 xin ru zhuang ding 新入壮丁
+20 81 yi xu jiu pin ding dai 议叙九品顶戴
+23 81 xiao chu qi dang 销除旗档
+25 81 ge yan zhuang tou 革盐庄头
+1 82 hou bu bi tie shi 侯补笔帖式
+2 82 hou bu bi tie shi 侯补笔帖式
+4 82 hou bu bi tie shi 侯补笔帖式
+7 82 chen fei 陈废
+20 82 xin fang cheng zhuang tou 新放城庄头
+23 82 hou bu ku shi 候补库使
+25 82 juan na cong jiu pin 捐纳从九品
+1 83 shi feng cui zhang 食俸催长
+7 83 chen tui 陈退
+20 83 juan na hou bu bi tie shi 捐纳后补笔帖式
+23 83 mu ding 牧丁
+25 83 mu sheng 墓 生
+1 84 wei cui ling 委催領
+7 84 fa yi
+20 84 yuan cheng xian xiao qi xiao 苑丞衔骁骑校
+23 84 lin sheng 廪生
+25 84 gao li man zhou tui mian ding 高丽满洲退棉丁
+1 85 ling cui 领催
+2 85 ling cui 领催
+3 85 ling cui 领催
+4 85 ling cui 领催
+7 85 chen fei 陈废
+20 85 jiu pin ding dai 九品顶戴
+23 85 tao ding 逃丁（咨部注逃）
+25 85 gao li man zhou tui ding 高丽满洲退丁
+1 86 en ci jiu pin zhi xian 恩赐九品职衔
+2 86 en ci jiu pin zhi xian 恩赐九品职衔
+3 86 en ci jiu pin zhi xian 恩赐九品职衔
+7 86 chen fa yi
+20 86 wai lang 外郎
+23 86 qi jiang 漆匠
+25 86 gao li man zhou you ding 高丽满洲幼丁
+1 87 tui zhi shi ren 退执事人
+7 87 juan na wu pin xian 捐纳五品衔
+20 87 shou wei suo qian zong 守尉所千总
+23 87 ge tui ku shi 革退库使
+25 87 juan na gong sheng 捐纳贡生
+1 88 juan na gong sheng 捐纳贡生
+7 88 juan na qi pin xian 捐纳七品衔
+20 88 wen tong 文童
+23 88 juan na hou bu ku shi 捐纳候补库使
+25 88 juan na jian sheng 捐纳监生
+1 89 hou bu ku shi 侯补库使
+2 89 hou bu ku shi 侯补库使
+4 89 hou bu ku shi 侯补库使
+7 89 juan na er pin xian 捐纳二品衔
+20 89 xin fang bai zong 新放百总
+23 89 yuan cheng xian xiao qi xiao 苑丞衔骁骑校
+25 89 juan na bi tie shi 捐纳笔帖式
+20 90 liu pin ding dai 六品顶戴
+23 90 da xi lin yu ding 打细鳞鱼丁
+25 90 jiu pin zhi xian 九品职衔
+1 91 ge tui bai zong 革退百总
+4 91 ge tui bai zong 革退百总
+20 91 ba pin ding dai 八品顶戴
+23 91 juan na hou bu cui zhang 捐纳候补催长
+25 91 wu sheng 武生
+1 92 xiao qi xiao 骁骑校
+2 92 xiao qi xiao 骁骑校
+4 92 xiao qi xiao 骁骑校
+20 92 ling cui 领催
+23 92 juan na jian sheng 捐纳监生
+25 92 lan ling wu pin ding dai 蓝翎五品顶戴
+1 93 juan na xun cha 捐纳巡查
+2 93 juan na xun cha 捐纳巡查
+3 93 wo peng tou 窝棚头
+20 93 tui yuan cheng xian xiao qi xiao 退苑丞衔骁骑校
+23 93 wang hu da 网户达
+25 93 lan ling wu pin jun gong 蓝翎五品军功
+1 94 shi ren 事人
+2 94 shi ren 事人
+3 94 ling cui cai mi 领催采蜜
+20 94 juan na ying qian zong 捐纳营千总
+23 94 cai feng jiang 裁缝匠
+25 94 cong jiu pin 从九品
+1 95 juan na jian sheng 捐纳监生
+2 95 juan na jian sheng 捐纳监生
+3 95 tui wo peng tou 退窝棚头
+20 95 juan na jian sheng 捐纳监生
+23 95 mian ding 棉丁
+1 96 juan na bi tie shi 捐納笔帖式
+2 96 juan na bi tie shi 捐納笔帖式
+3 96 kai dang 开档
+20 96 zhi shi ren 执事人
+23 96 tui wang hu da 退网户达
+1 97 shou zi
+2 97 shou zi
+3 97 tui ling cui cai mi 退领催
+20 97 wu pin ding dai 五品顶戴
+23 97 liu pin xian zhi shi ren 六品衔执事人
+1 98 wu hu cheng cui 五戶承催
+2 98 wu hu cheng cui 五戶承催
+3 98 tui zu zhang 退族长
+20 98 yuan cheng xian xiao qi xiao ling cui 苑丞衔领催
+23 98 ji jiang tou 机匠头
+1 99 hou bu cui zhang zhi shi ren 候補催長執事人
+2 99 gu ding 故丁
+20 99 qi pin ding dai 七品顶戴
+23 99 fu si ku 副司库
+1 100 lan ling wu pin jun gong jian xian ba zong 蓝翎五品军功鉴先把总
+2 100 yan ding 盐丁
+4 100 qi jiang 漆匠
+7 100 ding 丁
+20 100 en ci liu pin ding dai 恩赐六品顶戴
+23 100 tui ling cui 退领催
+1 101 lan ling wu pin jun gong zhi shi ren 蓝翎五品军功执事人
+2 101 xin ding 新丁
+3 101 chen fei 陈废
+4 101 tie jiang 铁匠
+7 101 gu jia 故甲
+20 101 wei guan ling cui 委官领催
+23 101 qi pin jun gong 七品军功
+1 102 xian cheng zhi xian 县丞职衔
+2 102 cui zhang 催长
+3 102 da mi ling cui 打蜜领催
+4 102 xuan jiang 弦匠
+7 102 gu jian sheng 故监生
+20 102 wu pin jun gong 五品军功
+23 102 hou bu ling cui 候补领催
+1 103 juan na jing li zhi xian 捐纳经历职衔
+2 103 liu pin ding dai, ling cui 六品顶戴，领催
+3 103 xiao chu qi dang 销除旗档
+4 103 xiao tou 小头
+7 103 hua jiang 花匠
+20 103 gao zeng feng zheng da fu 诰赠奉政大夫
+23 103 liu pin jun gong 六品军功
+1 104 zhou tong zhi xian 州同职衔
+2 104 liu pin ding dai 六品顶戴
+3 104 kai dang mi ding 开档蜜丁
+4 104 xiu cai 秀才
+7 104 shang ren 商人
+20 104 chi zeng feng zheng da fu 驰赠奉政大夫
+23 104 wu pin jun gong 五品军功
+1 105 liu pin xian ku shi 六品衔库使
+3 105 bai zong 百总
+4 105 ge jia 革甲
+7 105 gong sheng 贡生
+20 105 zhi xian zai ren yi tong zhi zhi li zhou zhi zhou bu yong 知县在任以同知直隶州知州补用
+23 105 lan ling wu pin ding dai 蓝翎五品顶戴
+1 106 fu jing li zhi jian fu jing li zhi xian 府经历只件府经历职衔
+3 106 fa qian 发遣
+4 106 cui zhang 催长
+7 106 gu zhi shi ren 故执事人
+20 106 qi pin jun gong 七品军功
+23 106 mu ding 木丁
+1 107 ding gu 丁故
+3 107 xuan zeng mi ding 玄增蜜丁
+7 107 jiao qi wei 骁骑尉
+20 107 hua ling tong zhi xian 花翎同知衔
+23 107 qi pin ding dai fu ling cui 七品顶戴、副领催
+1 108 xian gu 闲故
+3 108 kai dang tui ding 开档退丁
+4 108 si ku 司库
+20 108 en ci qi pin ding dai 恩赐七品顶戴
+23 108 liu pin ding dai 六品顶戴
+1 109 cui zhang 催长
+3 109 bang ding 帮丁
+20 109 xian cheng xian jian sheng 县丞衔监生
+23 109 lin shan sheng ju ren hou bu bi tie shi廪膳生、举人候补笔帖式
+1 110 si ku 司库
+3 110 qin ding 亲丁
+4 110 ge tui gong jiang 革退弓匠
+20 110 fu jing li xian 府经历衔
+23 110 ji ming guan xue sheng 记名官学生
+1 111 mai mai ren 买卖人
+4 111 xin fang gong jiang 新放弓匠
+20 111 juan na cong jiu pin xian 捐纳从九品衔
+23 111 wei ling cui 委领催
+1 112 xiao chu qi dang 销除旗档
+4 112 ji jiang bang ding 机匠帮丁
+20 112 wu pin xian xuan yong xun jian jian sheng 五品衔选用巡检监生
+23 112 liu pin xian zhi shi ren 六品衔执事人
+1 113 shou wei suo qian zong , xiao qi xiao 守卫所千总、骁骑校
+4 113 xin fang ji jiang 新放机匠
+20 113 wu pin xian 五品衔
+23 113 lan ling wu pin xian ji bu cui zhang zhi shi ren 蓝翎五品衔即补催长执事人
+1 114 xiao chu 销除
+4 114 hou bu xun dao 候補巡道
+20 114 hua ling si pin xian 花翎四品衔
+23 114 ji ming ku shi ji bu mu zhang 记名库使即补牧长
+4 115 xin ru lou ding 新入漏丁
+20 115 lan ling wu pin xian jing sheng 蓝翎五品衔警生
+23 115 fu ding 夫丁
+4 116 tui zhi shi ren 退执事人
+23 116 liu pin ding dai zhi shi ren ji bu mu zhang jia ding六品顶戴执事人即补牧长、甲丁
+4 119 tui xian jiang 退弦匠
+4 120 tui tie jiang 退铁匠
+4 121 ge cui zhang 革催长
+4 122 ge xiao qi xiao 革骁骑校
+4 123 hou bu zhu shi 候補主事
+4 124 ge ji jiang 革机匠
+4 125 xin fang guan xue sheng 新放官學生
+4 126 cui zhang ling cui 催长领催
+4 127 kai dang chen fei 开档陈废
+4 128 kai dang mian ding 开档棉丁
+4 129 mian ding 棉丁
+4 130 kai dang yu ding 开档鱼丁
+4 131 kai dang xiao tou 开档小头
+4 132 kai dang mi ding 开档蜜丁
+4 133 xin ru ding 新入丁
+4 134 xin ru 新入
+4 135 fa ding 罚丁
+4 136 wo peng tou 窝棚头
+4 137 mi ling cui 蜜领催
+4 138 fei ding 废丁
+4 139 kai dang zhuang ding 开档壮丁
+4 140 zhi shi ren 执事人
+4 141 xin juan jian sheng 新捐监生
+4 142 xin fang jia ding 新放甲丁
+4 143 yuan cheng xian xiao qi xiao 苑丞衔骁骑校
+4 144 tou hu ran jiang 投户染匠
+4 145 tao ding xiao chu qi dang 逃丁、销除旗档
+4 146 xin fang bai zong 新放百总
+4 147 tou hu bang ding 投户帮丁
+4 148 kai dang chen tao 开档陈逃
+4 149 kai dang tui ding 开档退丁
+4 150 kai dang fei ding 开档废丁
+4 151 kai dang jia ding 开档甲丁
+4 152 kai dang ji jiang 开档机匠
+4 153 kai dang bang ding 开档帮丁
+4 154 kai dang chen tui 开档陈退
+4 155 kai dang tao ding 开档逃丁
+4 156 kai dang ling cui 开档领催
+4 157 yuan cheng xian ku shi 苑丞衔库使
+4 158 yuan cheng xian cui zhang 苑丞衔催长
+4 159 juan fu yuan cheng xian xiao qi xiao 损复苑丞衔骁骑校
+4 160 zhu shi 主事
+4 161 hou bu xiao qi xiao 候补骁骑校
+4 162 tui qi jiang 退漆匠
+4 163 ge zhi shi ren 革执事人
+4 164 bu xiao qi xiao 补骁骑校
+4 165 juan na bi tie shi guan xue sheng 捐纳笔贴式官学生
+4 166 wei guan zhi shi ren 委官执事人
+4 167 guan xue sheng hou bu bi tie shi 官学生候补笔贴式
+4 168 bu xiao qi xiao zhi shi ren 补骁骑校执事人
+4 169 tang zhu shi 堂主事
+4 170 cong jiu pin jia ding 从九品甲丁
+4 171 jian sheng guan xue sheng 监生官学生
+4 172 jian sheng jia ding 监生甲丁
+4 173 guan xue sheng mo ji ge 官学生莫机各
+4 174 hou bu xiao qi xiao cui zhang 候补骁骑校催长
+4 175 guan xue sheng hou bu bi tie shi sheng yuan 官学生候补笔贴式生员
+4 176 liu pin xian zhang gao bi tie shi 六品衔掌稿笔贴式
+4 177 wu pin ding dai jian sheng jia ding 五品顶戴监生甲丁
+4 178 tui guan xue sheng mo ji ge 退官学生莫机各
+4 179 qi pin ding dai jia ding 七品顶戴甲丁
+4 180 liu pin xian cui zhang 六品衔催长
+4 181 cheng qing liu pin feng dian 呈请六品封典
+4 182 jian sheng lang zhong zhi xian lan ling 监生郎中职衔蓝翎
+4 183 bu ku shi guan xue sheng 补库使官学生
+4 184 ge guan xue sheng 革官学生
+4 185 fu jing li zhi xian jia ding 府经历职衔甲丁
+4 186 yuan cheng xian ji ming cui zhang zhi shi ren 苑丞衔记名催长执事人
+4 187 lan ling wu pin ding dai jia ding 蓝翎五品顶戴甲丁
+4 188 ji ming guan xue sheng 记名官学生
+4 189 zao feng wu de qi wei 诰封武德骑+D485
+4 190 yi feng wu de qi wei fu si ku 貤封武德骑尉副司库
+4 191 hua ling wu pin xian xiao qi xiao 花翎五品衔骁骑校
+4 192 sheng yuan yuan cheng xian zhang gao bi tie shi 生员苑丞衔掌稿笔贴式
+4 193 lan ling wu pin ding dai 蓝翎五品顶戴
+4 194 qian liang da 钱粮达
+4 195 lan ling wu pin xian zheng huang qi xiao qi xiao 蓝翎五品衔正黄旗骁骑校
+4 196 liu pin ding dai 六品顶戴
+4 197 liu ping ding dai jia ding 五品顶戴甲丁
+4 198 wu pin ding dai 五品顶戴
+4 199 fu ling cui 副领崔
+4 200 zhang gao bi tie shi 掌稿笔贴式
+4 201 lan ling wu pin ding dai hou bu xiao qi xiao jiming cui zhang zhi shi ren蓝翎五品顶戴候补骁骑校记名催长执事人
+4 202 liu pin jun gong 六品军功
+4 203 wei guan ling cui 委官领崔
