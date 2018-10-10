@@ -16,8 +16,8 @@ def distance(la1,long1,la2,long2):
 #and then we calculate the distance decay: 
 
 def decay(distance):
-    if distance==0:
-        distance=1
+    if distance<=1:
+        distance=1   #generally, this is the case when the village is itself. 
     decay=(1/(distance**2))
     return decay
 
