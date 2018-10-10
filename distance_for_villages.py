@@ -22,6 +22,14 @@ def decay(distance):
     return decay
 
 # after constructing the distance-decay matrix, we could transfer the distance-decay matrix into the distance weight matrix. 
+df=pd.read_csv("distance_matrix.csv")
+df1=df
+for i in range(0,df.iloc[:,0].size):
+    for j in range(0,df.iloc[0,:].size):
+        df1[i,j]=df[i,j]*(1/ df.iloc[i,0：].sum())  # to get it weighted: for every array, the sum of the elements is 1. 
+df1.to_csv("spatial_weight.csv")
 
-def weight(decay:pd.Series):
+
+        
+    
     
